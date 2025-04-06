@@ -32,6 +32,7 @@
             menuStrip1 = new MenuStrip();
             mENUToolStripMenuItem = new ToolStripMenuItem();
             cadastrarClienteToolStripMenuItem1 = new ToolStripMenuItem();
+            cadastrarPetToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -48,7 +49,7 @@
             // mENUToolStripMenuItem
             // 
             mENUToolStripMenuItem.CheckOnClick = true;
-            mENUToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cadastrarClienteToolStripMenuItem1 });
+            mENUToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cadastrarClienteToolStripMenuItem1, cadastrarPetToolStripMenuItem });
             mENUToolStripMenuItem.Name = "mENUToolStripMenuItem";
             mENUToolStripMenuItem.Size = new Size(65, 24);
             mENUToolStripMenuItem.Text = "MENU";
@@ -62,6 +63,14 @@
             cadastrarClienteToolStripMenuItem1.Size = new Size(252, 26);
             cadastrarClienteToolStripMenuItem1.Text = "Cadastrar Cliente";
             cadastrarClienteToolStripMenuItem1.Click += cadastrarClienteToolStripMenuItem1_Click;
+            // 
+            // cadastrarPetToolStripMenuItem
+            // 
+            cadastrarPetToolStripMenuItem.Name = "cadastrarPetToolStripMenuItem";
+            cadastrarPetToolStripMenuItem.ShortcutKeys = Keys.Alt | Keys.P;
+            cadastrarPetToolStripMenuItem.Size = new Size(252, 26);
+            cadastrarPetToolStripMenuItem.Text = "Cadastrar Pet";
+            cadastrarPetToolStripMenuItem.Click += cadastrarPetToolStripMenuItem_Click;
             // 
             // InicioForm
             // 
@@ -89,5 +98,6 @@
         private MenuStrip menuStrip1;
         private ToolStripMenuItem mENUToolStripMenuItem;
         private ToolStripMenuItem cadastrarClienteToolStripMenuItem1;
+        private ToolStripMenuItem cadastrarPetToolStripMenuItem;
     }
 }

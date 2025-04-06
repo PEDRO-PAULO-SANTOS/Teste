@@ -12,5 +12,10 @@ namespace Trabalho_3_Camadas
             CadClienteForm cadC = new CadClienteForm();
             cadC.Show();
         }
+        private void cadastrarPetToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadPetForm cadp = new CadPetForm();
+            cadp.Show();
+        }
     }
 }

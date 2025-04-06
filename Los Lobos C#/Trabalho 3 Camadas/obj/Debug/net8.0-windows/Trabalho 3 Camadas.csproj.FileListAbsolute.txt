@@ -34,3 +34,4 @@ C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net
 C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.pdb
 C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.genruntimeconfig.cache
 C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\ref\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.CadPetForm.resources
