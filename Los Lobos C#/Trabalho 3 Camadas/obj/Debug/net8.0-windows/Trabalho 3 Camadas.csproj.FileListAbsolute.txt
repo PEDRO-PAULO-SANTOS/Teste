@@ -1,0 +1,36 @@
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.exe
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.deps.json
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.runtimeconfig.json
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.pdb
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.Properties.Resources.resources
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.csproj.GenerateResource.cache
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.AssemblyInfoInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.AssemblyInfo.cs
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\refint\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.pdb
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.genruntimeconfig.cache
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\ref\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.CadClienteForm.resources
+C:\Users\Pedro\OneDrive\Documentos\Trabalho 3 camadas\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.InicioForm.resources
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.CadClienteForm.resources
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.InicioForm.resources
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho_3_Camadas.Properties.Resources.resources
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.csproj.GenerateResource.cache
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.AssemblyInfoInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.AssemblyInfo.cs
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\refint\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.pdb
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.exe
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.deps.json
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.runtimeconfig.json
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.dll
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\bin\Debug\net8.0-windows\Trabalho 3 Camadas.pdb
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\Trabalho 3 Camadas.genruntimeconfig.cache
+C:\Users\Pedro\OneDrive\Documentos\Los Lobos C#\Trabalho 3 Camadas\obj\Debug\net8.0-windows\ref\Trabalho 3 Camadas.dll
